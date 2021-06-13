@@ -3,11 +3,11 @@ Estudo dos dados sobre a vacinação contra a Poliomielite no Brasil
 
 Nesse projeto analisamos os dados do SUS (Sistema Único de Saúde), obitidos no sistema de dados abertos do Governo Federal (TabNet), sobre a vacinação contra a Poliomielite. Começando por todo o território nacional e se especializando nos dados do estado do Ceará.
 
-## Datasets
+## :books: Datasets
 Os datasets estão incluído na pasta [Arquivos](https://github.com/johnatanDM/PolioBrasil/tree/main/Dados). E nela há uma explicação mais detalhada sobre eles.
 
 
-## :sweat_drops: Preparando ambiente
+## :hammer: Preparando ambiente
 Esses projetos foram feitos em Python :snake: utilizando Jupyter Notebook. Que você pode instalar utilizando qualquer método de instalação do Python e Jupyter Notebook que preferir. 
 
 Maaaaaasss...
