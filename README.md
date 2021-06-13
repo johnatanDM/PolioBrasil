@@ -10,9 +10,7 @@ Os datasets estão incluído na pasta [Arquivos](https://github.com/johnatanDM/P
 ## :hammer: Preparando ambiente
 Esses projetos foram feitos em Python :snake: utilizando Jupyter Notebook. Que você pode instalar utilizando qualquer método de instalação do Python e Jupyter Notebook que preferir. 
 
-Maaaaaasss...
-
-Pode usar o Google Colaboratory (Colab para os ítimos) que já te oferece um Jupiter Notebook com várias bibliotecas pré-instaladas em uma máquina parruda, com direito a GPU (se precisar), tudo isso rodando no seu navegador. Confere o link: 
+Usamos o Google Colaboratory (Colab) que já te oferece um Jupiter Notebook com várias bibliotecas pré-instaladas em uma máquina parruda, com direito a GPU (se precisar), tudo isso rodando no seu navegador. Confere o link: 
 * [Colab](https://colab.research.google.com) - Google Colaboratory
 
 🛠️ As bibliotecas e módulos utilizados nos projetos são:
