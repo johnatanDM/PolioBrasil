@@ -1,0 +1,1 @@
+# Directório com arquivos diversos
