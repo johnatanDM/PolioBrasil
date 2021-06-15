@@ -63,4 +63,7 @@ A Outra história foi de uma garota de 18 anos que sofreu um acidente em um pau 
 
 Comovida com a história, comentei que estava chacada e me marcou a fala do meu avô: "minha filha para ficar deficiente só precisa estar vivo e ser saudável"."
 
+<img src="https://github.com/johnatanDM/PolioBrasil/blob/main/Arquivos/WhatsApp%20Image%202021-06-13%20at%2020.10.08.jpeg?raw=true" width="350" alt="Cândido">
+
+
 História contada por Sonia Maria Moreira, neta de Cândido.
